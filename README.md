@@ -10,3 +10,12 @@
     <li>CSS3: linguagem usada para estilizar e deixar o site bonito</li>
 </ul>
 <h2>Imagens do site (PC e Celular)</h2>
+<h3>PC</h3>
+<img src="/img-readme/sss (1).jpg" alt="">
+<img src="/img-readme/v (1).jpg" alt="">
+<img src="/img-readme/ll (1).jpg" alt="">
+<h3>Celular</h3>
+<img src="/img-readme/IMG_20230109_170557.jpg" alt="">
+<img src="/img-readme/IMG_20230109_170616.jpg" alt="">
+<img src="/img-readme/IMG_20230109_170637.jpg" alt="">
+<img src="/img-readme/IMG_20230109_170654.jpg" alt="">
