@@ -82,6 +82,9 @@ div > p{
     font-family: 'Android';
     font-weight: normal;
     color: var(--cor5);
+    text-align: left;
+    font-size: 1.8em;
+
 }
 main {
     background-color: white;
@@ -92,6 +95,7 @@ main {
     max-width: 1000px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+    box-shadow: 0px 0px 10px rgb(0 0 0 / 42%);
 }
 
 main p{
@@ -177,6 +181,7 @@ aside{
     background-color: var(--cor1);
     padding: 10px;
     border-radius: 10px;
+    box-shadow: 0px 0px 10px rgb(0 0 0 / 42%);
 }
 
 aside > h3{
